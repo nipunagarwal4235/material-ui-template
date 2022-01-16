@@ -1,5 +1,5 @@
 import Header from "./ui/Header";
-import {ThemeProvider} from '@mui/material/styles';
+import { ThemeProvider } from '@material-ui/core/styles'
 import theme from './ui/Theme'
 
 function App() {
