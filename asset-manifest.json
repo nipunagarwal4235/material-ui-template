@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.js": "/material-ui-template/static/js/main.ab37df90.js",
-    "static/js/787.cedd1aaf.chunk.js": "/material-ui-template/static/js/787.cedd1aaf.chunk.js",
+    "main.js": "/material-ui-template/static/js/main.73462bee.js",
     "static/media/logo.svg": "/material-ui-template/static/media/logo.ba25c28734ea338c5066e1695e501ae6.svg",
+    "static/media/twitter.svg": "/material-ui-template/static/media/twitter.6c7251a31c30e9cc87fe292b0bef6808.svg",
+    "static/media/instagram.svg": "/material-ui-template/static/media/instagram.b785683aa1d46553e033501aa1a5a106.svg",
+    "static/media/facebook.svg": "/material-ui-template/static/media/facebook.112ba23cd37d9421f0690f47413bc1b0.svg",
     "index.html": "/material-ui-template/index.html",
-    "main.ab37df90.js.map": "/material-ui-template/static/js/main.ab37df90.js.map",
-    "787.cedd1aaf.chunk.js.map": "/material-ui-template/static/js/787.cedd1aaf.chunk.js.map"
+    "static/media/Footer Adornment.svg": "/material-ui-template/static/media/Footer Adornment.b344a3e1a50ccc818a56dd89446d2ccd.svg",
+    "main.73462bee.js.map": "/material-ui-template/static/js/main.73462bee.js.map"
   },
   "entrypoints": [
-    "static/js/main.ab37df90.js"
+    "static/js/main.73462bee.js"
   ]
 }
