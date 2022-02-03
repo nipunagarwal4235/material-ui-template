@@ -69,7 +69,7 @@ export default function Footer(props) {
               <Grid
                 item
                 component={Link}
-                onClick={() => props.setValue(0)}
+                onClick={() => props.setvalue(0)}
                 to="/"
                 className={classes.link}
               >
@@ -83,7 +83,7 @@ export default function Footer(props) {
                 item
                 component={Link}
                 onClick={() => {
-                  props.setValue(1);
+                  props.setvalue(1);
                   props.setSelectedIndex(0);
                 }}
                 to="/services"
@@ -97,7 +97,7 @@ export default function Footer(props) {
                 to="/customsoftware"
                 className={classes.link}
                 onClick={() => {
-                  props.setValue(1);
+                  props.setvalue(1);
                   props.setSelectedIndex(1);
                 }}
               >
@@ -109,7 +109,7 @@ export default function Footer(props) {
                 to="/mobileapps"
                 className={classes.link}
                 onClick={() => {
-                  props.setValue(1);
+                  props.setvalue(1);
                   props.setSelectedIndex(2);
                 }}
               >
@@ -119,7 +119,7 @@ export default function Footer(props) {
                 item
                 component={Link}
                 onClick={() => {
-                  props.setValue(1);
+                  props.setvalue(1);
                   props.setSelectedIndex(3);
                 }}
                 to="/websites"
@@ -136,7 +136,7 @@ export default function Footer(props) {
                 component={Link}
                 to="/revolution"
                 className={classes.link}
-                onClick={() => props.setValue(2)}
+                onClick={() => props.setvalue(2)}
               >
                 The Revolution
               </Grid>
@@ -145,7 +145,7 @@ export default function Footer(props) {
                 component={Link}
                 to="/revolution"
                 className={classes.link}
-                onClick={() => props.setValue(2)}
+                onClick={() => props.setvalue(2)}
               >
                 Vision
               </Grid>
@@ -154,7 +154,7 @@ export default function Footer(props) {
                 component={Link}
                 to="/revolution"
                 className={classes.link}
-                onClick={() => props.setValue(2)}
+                onClick={() => props.setvalue(2)}
               >
                 Technology
               </Grid>
@@ -163,7 +163,7 @@ export default function Footer(props) {
                 component={Link}
                 to="/revolution"
                 className={classes.link}
-                onClick={() => props.setValue(2)}
+                onClick={() => props.setvalue(2)}
               >
                 Process
               </Grid>
@@ -174,7 +174,7 @@ export default function Footer(props) {
               <Grid
                 item
                 component={Link}
-                onClick={() => props.setValue(3)}
+                onClick={() => props.setvalue(3)}
                 to="/about"
                 className={classes.link}
               >
@@ -183,7 +183,7 @@ export default function Footer(props) {
               <Grid
                 item
                 component={Link}
-                onClick={() => props.setValue(3)}
+                onClick={() => props.setvalue(3)}
                 to="/about"
                 className={classes.link}
               >
@@ -192,7 +192,7 @@ export default function Footer(props) {
               <Grid
                 item
                 component={Link}
-                onClick={() => props.setValue(3)}
+                onClick={() => props.setvalue(3)}
                 to="/about"
                 className={classes.link}
               >
@@ -205,7 +205,7 @@ export default function Footer(props) {
               <Grid
                 item
                 component={Link}
-                onClick={() => props.setValue(4)}
+                onClick={() => props.setvalue(4)}
                 to="/contact"
                 className={classes.link}
               >
